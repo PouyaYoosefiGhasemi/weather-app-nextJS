@@ -1,0 +1,33 @@
+@font-face {
+    font-family: notoL;
+    src: url(../../assets/Fonts/NotoSans-Light.ttf);
+  }
+  @font-face {
+    font-family: notoT;
+    src: url(../../assets/Fonts/NotoSans-Thin.ttf);
+  }
+  @font-face {
+    font-family: notoM;
+    src: url(../../assets/Fonts/NotoSans-Medium.ttf);
+  }
+  @font-face {
+    font-family: notoR;
+    src: url(../../assets/Fonts/NotoSans-Regular.ttf);
+  }
+.container{
+    width: 100vw;
+    max-width: 380px;
+    height: 100dvh;
+    height: 100vh;
+    background-color: #ecf3fe;
+    margin: 0 auto;
+    border-radius: 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    overflow-y: auto;
+    padding-top: 40px;
+    justify-content: space-between;
+    font-family: notoR;
+}
+

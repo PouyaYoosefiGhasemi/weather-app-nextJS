@@ -1,0 +1,12 @@
+.picture_cont{
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 10px;
+}
+.weather_desc{
+    font-family: notoL;
+    color: #A9B1DD;
+    font-size: 1.95rem;
+}

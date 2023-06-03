@@ -1,0 +1,39 @@
+.bottom_box{
+    height: 25%;
+    width: 100%;
+    background-color:#5a1bee;
+    display: flex;
+    justify-content: center;
+}
+.heading{
+    height: 75%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+.heading_titles{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    padding-left: 25px;
+}
+.heading_titles h1{
+    font-size: 1.7rem;
+    font-family: notoT;
+    color: #9fa9c8;
+}
+.heading_titles h2{
+    font-size: 1.9rem;
+    font-family: notoR;
+    color: #26386e;
+}
+
+.home_pic_shadow{
+    aspect-ratio: 4/4;
+    max-height: 100%;
+    transform: scaleY(-1);
+    opacity: 0.2;
+    
+}

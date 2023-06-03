@@ -1,0 +1,24 @@
+.data_box {
+  background-color: #642ff3;
+  width: 16%;
+  height: 70%;
+  border-radius: 18px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+.data_box_data{
+  display: flex;
+  color: azure;
+  flex-direction: column;
+  align-items: center;
+  font-family: notoT;
+}
+
+.data_box_data h5{
+  font-size: 0.5rem;
+}
+.data_box_data h4{
+  font-size: 0.7rem;
+}

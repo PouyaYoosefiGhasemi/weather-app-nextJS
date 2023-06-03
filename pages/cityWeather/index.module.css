@@ -1,0 +1,12 @@
+.data_container{
+    width: 90%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 1px;
+}
+
+.data_container_hr {
+    height: 30px;
+}
+

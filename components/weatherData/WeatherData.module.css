@@ -1,0 +1,17 @@
+.data_box{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: #494173;
+    padding: 5px;
+}
+
+.data_title{
+    font-family: notoT;
+    font-size: 0.65rem;
+}
+.data_spc{
+    font-family: notoR;
+    font-size: 1.35rem;
+}
